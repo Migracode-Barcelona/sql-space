@@ -21,5 +21,5 @@
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
-	"extensions": ["ckolkman.vscode-postgres"]
+	"extensions": [ "mtxr.sqltools", "mtxr.sqltools-driver-pg"]
 }
